@@ -123,7 +123,7 @@ Below is a sample visual comparison between a real image, degraded image, and th
 | Real Image | Degraded Image | Reconstructed Image |
 |------------|----------------|---------------------|
 | ![Real](images/mdvs1%20.jpg) | ![Degraded](images/mdvs1%20_synthetic_image_14.jpg) | ![Reconstructed](images/mdvs1%20_reconstructed_14.jpg) |
-| ![Real](images/mdvs31%20.jpg) | ![Degraded](images/mdvs31%20_synthetic_image_7.jpg) | ![Reconstructed](images/mmdvs31%20_reconstructed_7.jpg) |
+| ![Real](images/mdvs31%20.jpg) | ![Degraded](images/mdvs31%20_synthetic_image_7.jpg) | ![Reconstructed](images/mdvs31%20_reconstructed_7.jpg) |
 
 ## Results
 The Pix2Pix GAN model achieved an SSIM score of 0.9879 and an MSE of 0.0021 on the reconstruction task, demonstrating strong accuracy. The ResNet50 classification model achieved 99.98% accuracy on reconstructed images.
